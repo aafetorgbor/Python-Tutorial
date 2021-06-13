@@ -1,0 +1,4 @@
+# Allocated ip address blocks
+10.1.0.0/24
+172.16.0.0/18
+192.16.0.0/26
